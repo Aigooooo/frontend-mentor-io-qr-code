@@ -1,0 +1,45 @@
+html {
+  font-family: "Outfit", sans-serif;
+}
+body {
+  background-color: hsl(212, 45%, 89%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+body {
+  margin: 0;
+}
+
+.container {
+  width: 330px;
+  height: auto;
+}
+
+.container {
+  background-color: white;
+  text-align: center;
+  border-radius: 5%;
+}
+
+.img-container {
+  margin: 15px;
+}
+
+.img-container img {
+  position: relative;
+  max-width: 100%;
+  border-radius: 5%;
+  height: auto;
+}
+
+.footer-container {
+  margin: 0px 15px 20px 15px;
+  padding: 0 3px 3px 3px;
+}
+.footer-container span {
+  font-size: 17px;
+  color: gray;
+}
